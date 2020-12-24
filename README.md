@@ -16,4 +16,4 @@
 - PORT: the listening PORT
 - DB: the postgresql url to connect
 
-These two variables need to be set...
+These two variables need to be set
